@@ -1,0 +1,171 @@
+    1  git-basic-exercises
+    2  cd
+    3  cd
+    4  cd
+    5  cd Desktop/
+    6  ls
+    7  cd for_umuzi/
+    8  la
+    9  ls
+   10  git clone gh repo clone Umuzi-org/Fumani-Masingi-606-tilde-project-tutorial-how-repo-projects-work-
+   11  git clone Umuzi-org/Fumani-Masingi-606-tilde-project-tutorial-how-repo-projects-work-
+   12  git clonehttps://github.com/Umuzi-org/Fumani-Masingi-606-tilde-project-tutorial-how-repo-projects-work-.git
+   13  git clone https://github.com/Umuzi-org/Fumani-Masingi-606-tilde-project-tutorial-how-repo-projects-work-.git
+   14  git branch
+   15  cd Fumani-Masingi-606-tilde-project-tutorial-how-repo-projects-work-/
+   16  git branch
+   17  git checkout Juniorfumani-patch-1
+   18  git checkout Juniorfumani-patch-1
+   19  git status
+   20  git status
+   21  Git status
+   22  Git add .
+   23  Git commit -m "I have added the reason why my pr list is empty "
+   24  Git push
+   25  pwd
+   26  cd ~
+   27  cd~
+   28  cd ~
+   29  cd ..
+   30  ls
+   31  cd Git
+   32  ls
+   33  ls
+   34  Users
+   35  ls
+   36  Public
+   37  cd Users
+   38  cd public
+   39  ls
+   40  cd Desktop
+   41  ls
+   42  cd Git
+   43  cd 
+   44  cd Public
+   45  cd ...
+   46  cd ..
+   47  ls
+   48  cd FumaniMasingi
+   49  ls
+   50  cd Desktop
+   51  ls
+   52  cd Git
+   53  pwd
+   54  git init
+   55  cd ..
+   56  ls
+   57  cd Git/
+   58  ls
+   59  mkdir git-basic-exercises
+   60  cd git-basic-exercises/
+   61  ls -a
+   62  cd ..
+   63  ls
+   64  touch text.txt
+   65  nano text.txt 
+   66  pwd
+   67  git git-basic-exercises
+   68  cd git-basic-exercises
+   69  ls -a
+   70  git init
+   71  ls -a
+   72  git status
+   73  touch README.md
+   74  ls -a
+   75  git status
+   76  git log
+   77  git add README.md
+   78  git status
+   79  git reset
+   80  git status
+   81  git commit -m "first commit"
+   82  git commit -m "initial commit"
+   83  git add .
+   84  git commit -m "initial commit"
+   85  git log
+   86  q
+   87  nano README.md
+   88  cat README.md
+   89  git status
+   90  git commit -a
+   91  pwd
+   92  ls
+   93  ls -a
+   94  cd Desktop
+   95  ls
+   96  cd Git
+   97  ls
+   98  git git-basic-exercises
+   99  cd git-basic-exercises
+  100  add .
+  101  git add .
+  102  git commit -m "second commit"
+  103  git log
+  104  nano READMW.md
+  105  cat README.md
+  106  cat README.md
+  107  git status
+  108  git add .
+  109  nano READMW.md
+  110  cat README.md
+  111  nano README.md
+  112  cat README.md
+  113  git commit -m "second commit"
+  114  nano README.md
+  115  cat README.md
+  116  git log
+  117  git checkout 
+  118  cat README.md
+  119  git checkout main
+  120  cat README.md
+  121  git branch
+  122  git branch
+  123  git branch milkshake-flavours
+  124  git branch
+  125  git branch
+  126  git checkout milkshake-flavours
+  127  nano milkshakes.md
+  128  git status
+  129  git add .
+  130  git commit -m "added initial flavours"
+  131  git log
+  132  git checkout
+  133  git checkout main
+  134  pwd
+  135  git branch
+  136  git checkout -b master
+  137  git branch master
+  138  git branch
+  139  git checkout
+  140  git branch
+  141  ls
+  142  git status
+  143  git commit -m "added milkshake flavours"
+  144  git status
+  145  git add .
+  146  git status
+  147  git commit -m "added milkshake flavours"
+  148  git config --global --edit
+  149  git config --global --edit
+  150  git commit --amend --reset-author
+  151  git status
+  152  git checkout master
+  153  git log
+  154  git checkout milkshake
+  155  git branch
+  156  git checkout milkshake-flavours
+  157  git log
+  158  git checkout -b history
+  159  git branch
+  160  git log
+  161  git branch -d history
+  162  git checkout milkshake
+  163  git checkout milkshake-flavours
+  164  git branch -d history
+  165  git checkout master
+  166  git branch
+  167  git checkout -b history
+  168  git log
+  169  git branch
+  170  git checkout history
+  171  history > history.txt
