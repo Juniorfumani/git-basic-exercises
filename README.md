@@ -4,3 +4,7 @@ here is my second commit.
 
 
 third commit(last).
+
+just making some few changes.
+they don't have to be a lot.
+just few.
